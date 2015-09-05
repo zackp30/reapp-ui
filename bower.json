@@ -1,0 +1,17 @@
+{
+    "name": "z--reapp-ui",
+    "version": "0.0.0",
+    "homepage": "https://github.com/zackp30/reapp-ui",
+    "authors": [
+        "natew <natewienert@gmail.com>"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "description": "Only published here for an app, Bower makes it easier to manage dependencies, if you want this taken down for some reason, email zack@apertron.net"
+}
